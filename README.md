@@ -8,13 +8,16 @@ This project implements basic arithmetic operations (addition, subtraction, mult
 
 1. In GitHub, click on the "Fork" button and fork the repository https://github.com/AdaGold/project-file-structure to your GitHub account. This will make a copy of the project in your GitHub account.
 
+2. Clone it with 
 
-2. Create and Activate a Virtual Environment
+git clone ...
+
+3. Create and Activate a Virtual Environment
 
 python -m venv venv
 source venv/bin/activate  
 
-3. Install Dependencies
+4. Install Dependencies
 
 pip install -r requirements.txt
 
